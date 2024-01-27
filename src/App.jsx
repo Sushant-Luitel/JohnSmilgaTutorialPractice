@@ -1,10 +1,11 @@
 import "./App.css";
-import FetchApi from "./Components/FetchApi";
+
+import Navbar from "./Components/Navbar";
 
 function App() {
   return (
     <>
-      <FetchApi />
+      <Navbar />
     </>
   );
 }
