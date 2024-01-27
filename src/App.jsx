@@ -1,10 +1,10 @@
 import "./App.css";
-import UseRefBasics from "./Components/UseRefBasics";
+import Toggle from "./Components/Toggle";
 
 function App() {
   return (
     <>
-      <UseRefBasics />
+      <Toggle />
     </>
   );
 }
