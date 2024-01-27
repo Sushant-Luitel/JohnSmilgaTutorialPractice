@@ -1,11 +1,11 @@
 import "./App.css";
 
-import Navbar from "./Components/Navbar";
+import UseReducerSetup from "./Components/UseReducerSetup";
 
 function App() {
   return (
     <>
-      <Navbar />
+      <UseReducerSetup />
     </>
   );
 }
