@@ -1,10 +1,10 @@
 import "./App.css";
-import Toggle from "./Components/Toggle";
+import FetchApi from "./Components/FetchApi";
 
 function App() {
   return (
     <>
-      <Toggle />
+      <FetchApi />
     </>
   );
 }
